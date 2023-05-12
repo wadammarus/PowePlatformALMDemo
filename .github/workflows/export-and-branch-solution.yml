@@ -27,7 +27,7 @@ on:
 env:
 
   ENVIRONMENT_URL: 'https://org7eb5be0a.crm.dynamics.com/'
-  CLIENT_ID: 'd0b13851-0113-4e45-9edf-17489e36a37b'
+  CLIENT_ID: 'f44b74c5-d907-44ff-bfff-645977635a60'
   TENANT_ID: '57a73478-a62d-467f-a468-1b19ddcfb17f'
 permissions:
   contents: write
