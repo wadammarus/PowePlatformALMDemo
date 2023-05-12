@@ -26,7 +26,7 @@ on:
 
 env:
 
-  ENVIRONMENT_URL: 'https://org1eb0365b.crm.dynamics.com/'
+  ENVIRONMENT_URL: 'https://org7eb5be0a.crm.dynamics.com/'
   CLIENT_ID: 'd0b13851-0113-4e45-9edf-17489e36a37b'
   TENANT_ID: '57a73478-a62d-467f-a468-1b19ddcfb17f'
 permissions:
